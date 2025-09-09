@@ -30,6 +30,9 @@
 	<properties>
 		<java.version>21</java.version>
 	</properties>
+	<properties>
+  <sonar.organization>ehonam</sonar.organization>
+	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
